@@ -3,7 +3,7 @@
 Watch the video here: https://youtu.be/iy2aKf9AAvc
 
 The simplest and fastest way to create applications with a Web UI and a Python backend.
-![](/git_images/Screenshot from 2019-07-22 14-39-54.png)
+![](1.png)
 
 
 ## Getting Started
